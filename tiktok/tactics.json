@@ -1,0 +1,60 @@
+{
+  "tactics": [
+    {
+      "id": "curiosity_gap",
+      "name": "Curiosity gap hook",
+      "goal": "Stop the scroll with a question, then send people to the site and itch.io.",
+      "onScreen": ["100 PLAYERS", "ONE CURSED ISLAND", "Would you last the night?"],
+      "hashtags": ["#Manafall", "#IndieGame", "#SurvivalGame", "#DarkFantasy", "#IndieDev"],
+      "caption": "100 players. One cursed island. Would you last the night?\n\nManafall is a free dark-fantasy survival playtest — Breath magic, land claims, and a living island that does not care if you make it home.\n\nPlay it here:\nWebsite: https://jla1190.github.io/manafall-website/\nitch.io: https://orangejuice90.itch.io/manafall\n\n#Manafall #IndieGame #SurvivalGame #DarkFantasy #IndieDev"
+    },
+    {
+      "id": "lore_drop",
+      "name": "Lore teaser",
+      "goal": "Attract fantasy and worldbuilding viewers with a Years of Ash fragment.",
+      "onScreen": ["THE YEARS OF ASH", "The Covenant broke", "Breath still answers"],
+      "hashtags": ["#Manafall", "#DarkFantasy", "#Worldbuilding", "#IndieGame", "#FantasyLore"],
+      "caption": "The Covenant between earth and sky broke. Star-shards remade the climate, the beasts, and the ore. What is left is the Years of Ash.\n\nManafall drops you on a procedural island ringed by dead kingdoms. Magic is the Four Breaths — Ember, Rime, Verdure, Hollow.\n\nRead the world. Then try to live in it.\nWebsite: https://jla1190.github.io/manafall-website/\nitch.io: https://orangejuice90.itch.io/manafall\n\n#Manafall #DarkFantasy #Worldbuilding #IndieGame #FantasyLore"
+    },
+    {
+      "id": "feature_flex",
+      "name": "Feature flex",
+      "goal": "List concrete verbs so survival and crafting fans know what they can do.",
+      "onScreen": ["BUILD YOUR CLAIM", "BREW. FORGE. FLY.", "Free playtest"],
+      "hashtags": ["#Manafall", "#SurvivalGame", "#CraftingGame", "#OpenWorld", "#IndieDev"],
+      "caption": "Build a claim. Ride a flying carpet. Bind living runes. Brew, forge, shovel dirt, and try to last the night.\n\nManafall is a dark-fantasy survival playtest heading toward a 100-player island.\n\nFree download:\nWebsite: https://jla1190.github.io/manafall-website/\nitch.io: https://orangejuice90.itch.io/manafall\n\n#Manafall #SurvivalGame #CraftingGame #OpenWorld #IndieDev"
+    },
+    {
+      "id": "playtest_honest",
+      "name": "Honest playtest",
+      "goal": "Trust-building: say it is unfinished, then invite people anyway.",
+      "onScreen": ["NOT THE MMO YET", "The island is already here", "Play the test"],
+      "hashtags": ["#Manafall", "#IndieDev", "#Playtest", "#WIP", "#SurvivalGame"],
+      "caption": "This is not the finished 100-player MMO yet. It is the island being built in the open.\n\nPlay Offline keeps your character. Online is a local host until persistent servers ship. If you want to see a dark-fantasy survival world while it is still growing, this is the door.\n\nWebsite: https://jla1190.github.io/manafall-website/\nitch.io: https://orangejuice90.itch.io/manafall\n\n#Manafall #IndieDev #Playtest #WIP #SurvivalGame"
+    },
+    {
+      "id": "class_pick",
+      "name": "Class identity",
+      "goal": "Comment bait: ask which class people would spawn as.",
+      "onScreen": ["25 CLASSES", "Blade Dancer or Farmer?", "Comment your pick"],
+      "hashtags": ["#Manafall", "#RPG", "#IndieGame", "#ChooseYourClass", "#SurvivalGame"],
+      "caption": "You spawn. You pick a class. Blade Dancer, Pyromancer, Seafarer, Farmer, Witch Hunter, Jack of None — twenty-five ways to start dying on the same island.\n\nWhich one are you taking into the Years of Ash?\n\nPlay free:\nWebsite: https://jla1190.github.io/manafall-website/\nitch.io: https://orangejuice90.itch.io/manafall\n\n#Manafall #RPG #IndieGame #ChooseYourClass #SurvivalGame"
+    },
+    {
+      "id": "night_warning",
+      "name": "Night survival warning",
+      "goal": "Horror-adjacent tension for night-time posting slots.",
+      "onScreen": ["NIGHT DOES NOT WAIT", "Nightlings hunt the dark", "Shelter or run"],
+      "hashtags": ["#Manafall", "#SurvivalHorror", "#DarkFantasy", "#IndieGame", "#NightTime"],
+      "caption": "Day is for gathering. Night belongs to whatever wakes when the sun goes down.\n\nHunger, thirst, moon phases, and Nightlings. Full moons change more than the light. If you do not have a claim, you have a problem.\n\nSurvive it here:\nWebsite: https://jla1190.github.io/manafall-website/\nitch.io: https://orangejuice90.itch.io/manafall\n\n#Manafall #SurvivalHorror #DarkFantasy #IndieGame #NightTime"
+    },
+    {
+      "id": "fyp_broad",
+      "name": "Broad discovery tags",
+      "goal": "Test whether a few large tags (#gaming, #fyp) add reach versus niche-only posts.",
+      "onScreen": ["FREE DARK FANTASY", "Survival playtest", "Link below"],
+      "hashtags": ["#Manafall", "#Gaming", "#FYP", "#IndieGames", "#Survival"],
+      "caption": "Free dark-fantasy survival. Combat, magic, building, and a living island.\n\nManafall playtest is up. 100-player MMO is the destination — this is the island you can walk now.\n\nWebsite: https://jla1190.github.io/manafall-website/\nitch.io: https://orangejuice90.itch.io/manafall\n\n#Manafall #Gaming #FYP #IndieGames #Survival"
+    }
+  ]
+}

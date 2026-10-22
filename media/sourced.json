@@ -1,0 +1,27 @@
+{
+  "website": "https://jla1190.github.io/manafall-website/",
+  "itch": "https://orangejuice90.itch.io/manafall",
+  "tiktok": "@manafalltiktoc",
+  "stills": [
+    {
+      "path": "stills/splash.png",
+      "from": "https://jla1190.github.io/manafall-website/assets/splash.png"
+    },
+    {
+      "path": "stills/symbol.png",
+      "from": "https://jla1190.github.io/manafall-website/assets/symbol.png"
+    },
+    {
+      "path": "stills/icon.png",
+      "from": "https://jla1190.github.io/manafall-website/assets/icon.png"
+    },
+    {
+      "path": "stills/itch-cover.jpg",
+      "from": "https://img.itch.zone/aW1nLzMwNDk1ODIxLmpwZw==/original/ZyXhi9.jpg"
+    },
+    {
+      "path": "stills/trailer-frame.jpg",
+      "from": "https://i.ytimg.com/vi/TudrqM7-3_A/maxresdefault.jpg"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "account": "@manafalltiktoc",
+  "websiteUrl": "https://jla1190.github.io/manafall-website/",
+  "itchUrl": "https://orangejuice90.itch.io/manafall",
+  "discordUrl": "https://discord.gg/CH8GjWaDnx",
+  "trailerUrl": "https://youtube.com/shorts/TudrqM7-3_A",
+  "kofiUrl": "https://ko-fi.com/manafall",
+  "privacyPreference": "PUBLIC_TO_EVERYONE",
+  "privacyFallback": "SELF_ONLY",
+  "brandOrganic": true,
+  "brandContent": false,
+  "disableDuet": false,
+  "disableStitch": false,
+  "disableComment": false,
+  "coverTimestampMs": 1200
+}
