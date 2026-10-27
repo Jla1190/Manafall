@@ -1,0 +1,56 @@
+{
+  "website": "https://jla1190.github.io/manafall-website/",
+  "itch": "https://orangejuice90.itch.io/manafall",
+  "tiktok": "@manafalltiktoc",
+  "stills": [
+    {
+      "path": "stills/splash.png",
+      "from": "https://jla1190.github.io/manafall-website/assets/splash.png"
+    },
+    {
+      "path": "stills/symbol.png",
+      "from": "https://jla1190.github.io/manafall-website/assets/symbol.png"
+    },
+    {
+      "path": "stills/icon.png",
+      "from": "https://jla1190.github.io/manafall-website/assets/icon.png"
+    },
+    {
+      "path": "stills/itch-cover.jpg",
+      "from": "https://img.itch.zone/aW1nLzMwNDk1ODIxLmpwZw==/original/ZyXhi9.jpg"
+    },
+    {
+      "path": "stills/trailer-frame.jpg",
+      "from": "https://i.ytimg.com/vi/TudrqM7-3_A/maxresdefault.jpg"
+    },
+    {
+      "path": "stills/shot-01.png",
+      "from": "https://img.itch.zone/aW1hZ2UvNDcyOTU2NC8yODE5MzAwOS5wbmc=/original/ZlyStC.png"
+    },
+    {
+      "path": "stills/shot-02.png",
+      "from": "https://img.itch.zone/aW1hZ2UvNDcyOTU2NC8yODE5MzAxMS5wbmc=/original/b8BlPe.png"
+    },
+    {
+      "path": "stills/shot-03.png",
+      "from": "https://img.itch.zone/aW1hZ2UvNDcyOTU2NC8yODE5MzAxNC5wbmc=/original/57TvRg.png"
+    },
+    {
+      "path": "stills/shot-04.png",
+      "from": "https://img.itch.zone/aW1hZ2UvNDcyOTU2NC8yODE5MzAxMi5wbmc=/original/Bac85%2B.png"
+    },
+    {
+      "path": "stills/shot-05.png",
+      "from": "https://img.itch.zone/aW1hZ2UvNDcyOTU2NC8yODE5MzAxMy5wbmc=/original/gxo6mU.png"
+    },
+    {
+      "path": "stills/shot-06.png",
+      "from": "https://img.itch.zone/aW1hZ2UvNDcyOTU2NC8yODE5MzAxMC5wbmc=/original/IenWml.png"
+    }
+  ],
+  "notes": [
+    "YouTube trailer https://youtube.com/shorts/TudrqM7-3_A is official but this environment cannot download it (bot check).",
+    "Website background tracks are third-party stock — never mux them into TikTok posts.",
+    "Gameplay .mp4 files in clips/ beat stills whenever they exist."
+  ]
+}
