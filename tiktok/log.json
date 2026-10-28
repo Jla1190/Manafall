@@ -1,0 +1,51 @@
+[
+  {
+    "at": "2026-10-22T14:11:02Z",
+    "tacticId": "curiosity_gap",
+    "clip": "manafall-stills-curiosity-gap.mp4",
+    "status": "blocked_no_credentials",
+    "outbox": "2026-10-22-141102Z-curiosity_gap.json"
+  },
+  {
+    "at": "2026-10-23T14:12:16Z",
+    "tacticId": "curiosity_gap",
+    "clip": "manafall-stills-curiosity-gap.mp4",
+    "status": "blocked_no_credentials",
+    "outbox": "2026-10-23-141216Z-curiosity_gap.json"
+  },
+  {
+    "at": "2026-10-24T14:07:41Z",
+    "tacticId": "curiosity_gap",
+    "clip": "manafall-stills-curiosity-gap.mp4",
+    "status": "blocked_no_credentials",
+    "outbox": "2026-10-24-140741Z-curiosity_gap.json"
+  },
+  {
+    "at": "2026-10-25T14:05:03Z",
+    "tacticId": "curiosity_gap",
+    "clip": "manafall-stills-curiosity-gap.mp4",
+    "status": "blocked_no_credentials",
+    "outbox": "2026-10-25-140503Z-curiosity_gap.json"
+  },
+  {
+    "at": "2026-10-26T14:06:24Z",
+    "tacticId": "curiosity_gap",
+    "clip": "manafall-stills-curiosity-gap.mp4",
+    "status": "blocked_no_credentials",
+    "outbox": "2026-10-26-140624Z-curiosity_gap.json"
+  },
+  {
+    "at": "2026-10-27T14:09:35Z",
+    "tacticId": "curiosity_gap",
+    "clip": "manafall-stills-curiosity-gap.mp4",
+    "status": "blocked_no_credentials",
+    "outbox": "2026-10-27-140935Z-curiosity_gap.json"
+  },
+  {
+    "at": "2026-10-28T14:05:32Z",
+    "tacticId": "curiosity_gap",
+    "clip": "manafall-stills-curiosity-gap.mp4",
+    "status": "blocked_no_credentials",
+    "outbox": "2026-10-28-140532Z-curiosity_gap.json"
+  }
+]
