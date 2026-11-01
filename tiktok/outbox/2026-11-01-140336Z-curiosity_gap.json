@@ -1,0 +1,21 @@
+{
+  "at": "2026-11-01T14:03:36Z",
+  "account": "@manafalltiktoc",
+  "tacticId": "curiosity_gap",
+  "tacticName": "Curiosity gap hook",
+  "goal": "Stop the scroll with a question, then send people to the site and itch.io.",
+  "clip": "manafall-stills-curiosity-gap.mp4",
+  "clipBytes": 2397287,
+  "websiteUrl": "https://jla1190.github.io/manafall-website/",
+  "itchUrl": "https://orangejuice90.itch.io/manafall",
+  "hashtags": [
+    "#Manafall",
+    "#IndieGame",
+    "#SurvivalGame",
+    "#DarkFantasy",
+    "#IndieDev"
+  ],
+  "caption": "100 players. One cursed island. Would you last the night?\n\nManafall is a free dark-fantasy survival playtest \u2014 Breath magic, land claims, and a living island that does not care if you make it home.\n\nComment A or B:\nA = I'd hide in a claim\nB = I'd fight the Nightlings\n\nPlay it here:\nWebsite: https://jla1190.github.io/manafall-website/\nitch.io: https://orangejuice90.itch.io/manafall\n\n#Manafall #IndieGame #SurvivalGame #DarkFantasy #IndieDev",
+  "status": "blocked_no_credentials",
+  "detail": "No TIKTOK_ACCESS_TOKEN (or refresh trio) in this environment. Clip and caption are ready; publishing is blocked until TikTok Login Kit tokens are added to the automation environment."
+}
